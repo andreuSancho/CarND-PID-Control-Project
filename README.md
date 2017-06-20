@@ -34,8 +34,8 @@ throttle = (60.0 - speed) * 0.01
 where 60.0 is the maximum speed that we want to achieve and 0.01 is a normalizing constant. Other speed maximums have been tested but this particular value makes the ride of the car safer.
 
 See the video here: 
+[![Result](https://img.youtube.com/vi/QComZ1jBYkI/0.jpg)](https://youtu.be/QComZ1jBYkI)
 
-[![Result]](https://youtu.be/QComZ1jBYkI)
 
 # Original Readme
 
